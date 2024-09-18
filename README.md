@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyushKumar5186
-- 👀 I’m interested doing innovations
+- 👀 I’m interested in doing innovations
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on some projects of mern stack
 - 📫 How to reach me: krayush294@gmail.com
